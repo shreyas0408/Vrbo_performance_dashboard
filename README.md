@@ -34,17 +34,16 @@ Superhost distribution, pricing and guest ratings across cities.
 - Data modelling (Listings and Reviews tables)
 - Pareto analysis, bookmarks, custom theme
 
-## Dataset
-[Add dataset name and source link]
 
 ## Screenshots
-![Overview](screenshots/overview.png)
-![Ratings](screenshots/ratings.png)
+![Overview](<img width="885" height="661" alt="Screenshot 2026-11-11 134730" src="https://github.com/user-attachments/assets/e340f24d-30ae-4ef6-8f04-6a5c50c0eba6" />
+)
+![Ratings](<img width="898" height="657" alt="Screenshot 2026-11-11 134611" src="https://github.com/user-attachments/assets/d8271eab-d3b0-415c-96fc-65b1c6cf338e" />
+)
 
 ## Note
 The .pbix file is about 200 MB, which is above GitHub's 100 MB limit,
-so only screenshots are included here. [Add a Drive link if you want
-to share the file.]
+
 
 ## Author
-Shreyas | Aspiring Data Analyst | [LinkedIn link]
+Shreyas | Aspiring Data Analyst | [https://www.linkedin.com/in/shreyas-kumbhar-18249232b/]
